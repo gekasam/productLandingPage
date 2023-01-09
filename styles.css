@@ -75,6 +75,7 @@ h1 {
   font-size: 1.7rem;
   width: 328px;
   text-align:center;
+  padding-inline: 2px;
 }
 
 #form {
