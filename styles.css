@@ -5,6 +5,10 @@
   /*border: 1px solid black;*/
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: rgba(247, 227, 192, 0.606);
 }
